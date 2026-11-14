@@ -1,1 +1,2 @@
 Contenido del archivo de notas
+Nueva línea añadida a notas.txt
