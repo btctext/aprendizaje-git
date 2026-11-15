@@ -1,4 +1,1 @@
-Contenido del archivo de notas
-Nueva línea añadida a notas.txt
-Eeste cambio solo está en la rama prueba-rama
-Línea solo en main
+Notas finales después del merge
