@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Versión final resuelta del conflicto
-=======
-Versión de EXPERIMENT - línea conflictiva
->>>>>>> experiment
