@@ -1,1 +1,1 @@
-Notas finales después del merge
+añado línea a notas.txt supongo que en feature
