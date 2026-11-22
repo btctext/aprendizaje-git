@@ -1,1 +1,2 @@
 Este es el primer archivo con Git
+Cambio hecho en el repositorio original
