@@ -1,1 +1,2 @@
 Este es el primer archivo con Git
+Línea añadida desde el repositorio de GitHub
